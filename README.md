@@ -1,14 +1,11 @@
 This project is associated with Arizona State University, released under CSE 574: Planning/Learning Methods AI course. I have provided overview of this individual project. For access to the complete source code, please contact me at my [email](mailto:asroideva@gmail.com) address.
 
 # Deep Reinforcement Learning on Robotic Agents
-
----
-
 Duration: Sept 2024 - Dec 2023
 
-## Overview
-
 ---
+
+## Overview
 
 The project focuses on applying Reinforcement Learning (RL) algorithms to train agents in two distinct environments provided by the Gym library: Cartpole and Humanoid. The Cartpole agent learns to balance itself, while the Humanoid agent learns to walk. The team utilized the Stable Baselines3 library, Gymnasium, and MuJoCo for efficient implementation and realistic physics simulation.
 
@@ -34,17 +31,21 @@ The project highlights the importance of Gymnasium, a versatile Python library o
 ### Cartpole
 
 ![Cartpole Demo](/assets/videos/Cartpole-PPO.gif)
+<br>
 Demonstration of balancing of Cartpole using PPO RL Algorithm
 
 ![Cartpole Results](/assets/images/Cartpole-Results.png)
+<br>
 Showcasing training performance comparison of two algorithms (PPO and DQN) by using Average Reward vs Timesteps graph in Cartpole Gym environment.
 
 ### Humanoid
 
 ![Humanoid Demo](/assets/videos/Humanoid-SAC.gif)
+<br>
 Demonstration of an Humanoid Agent walking using SAC algorithm
 
 ![Humanoid Results](/assets/images/Humanoid-Results.png)
+<br>
 Showcasing training performance comparison of algorithms (SAC, A2C, DDPG, TD3, PPO) by using Average Reward vs Timesteps graph in Humanoid Gym environment.
 
 
