@@ -1,7 +1,7 @@
 This project is associated with Arizona State University, released under CSE 574: Planning/Learning Methods AI course. I have provided overview of this individual project. For access to the complete source code, please contact me at my [email](mailto:asroideva@gmail.com) address.
 
 # Deep Reinforcement Learning on Robotic Agents
-Duration: Sept 2024 - Oct 2023
+Duration: Sept 2023 - Oct 2023
 
 ---
 
